@@ -19,16 +19,10 @@ Create a file with `.sh` extension, like `script.sh`, and add:
 ```bash
 #!/bin/bash
 echo "Hello, World!"
-
-if [ condition ]; then
-    echo "Condition met"
-fi
-
-for i in {1..5}; do
-    echo "Iteration $i"
-done
-
-for port in {1..1024}; do
-    (echo > /dev/tcp/127.0.0.1/$port) 2>/dev/null && echo "Port $port is open"
-done
-
+```
+Basic Backup Script:
+```bash
+#!/bin/bash
+tar -cvf backup_$(date +%F).tar /path/to/directory
+echo "Backup completed!"
+```
