@@ -26,6 +26,20 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 - `mv <source> <destination>`: Move or rename a file or directory.
 - `cat <file>`: Display the contents of a file.
 
+**2.System Information:**
+Display system information.
+```bash
+uname -a
+```
+Display running processes.
+```bash
+top
+```
+Show disk space usage.
+```bash
+df -h
+```
+
 ### File Permissions
 Permissions determine who can access or modify files. Use `chmod` to change permissions:
 - `chmod 755 filename`: Sets permissions to allow the owner to read/write/execute, others can only read/execute.
