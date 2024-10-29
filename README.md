@@ -57,3 +57,8 @@ Here are some recommended resources to get started:
 - **Metasploit**: Framework for developing and executing exploit code.
 - **Burp Suite**: Web vulnerability scanner and penetration testing tool.
 - **John the Ripper**: Password-cracking tool.
+
+## Projects/Exercises
+- Capture the Flag (CTF) challenges from [TryHackMe](https://tryhackme.com/) or [Hack The Box](https://www.hackthebox.eu/).
+- Write your own scripts to automate reconnaissance tasks.
+- Vulnerability assessments and reports on sample web applications.
