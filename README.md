@@ -4,17 +4,13 @@
 ## Introduction
 Welcome to **Cyber-the-Shield**! This repository is a journey through ethical hacking, from the basics of networking to advanced penetration testing techniques. My goal is to build skills in cybersecurity and create a solid foundation for anyone looking to enter the field of ethical hacking.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Skill Levels](#skill-levels)
-  - [Beginner](#beginner)
-  - [Intermediate](#intermediate)
-  - [Advanced](#advanced)
-- [Learning Resources](#learning-resources)
-- [Tools](#tools)
-- [Projects/Exercises](#projects-exercises)
-- [Future Goals](#future-goals)
+## Repository Structure
+
+- [Beginner](beginner/): Foundational cybersecurity topics.
+- [Intermediate](intermediate/): Mid-level cybersecurity topics.
+- [Advanced](advanced/): Advanced penetration testing and cryptography.
+- [Tools](tools/): Guides for using essential cybersecurity tools.
+- [Projects/Exercises](Projects/Exercises.md): Practical exercises and CTF challenges.
 
 ## Setup
 To start with ethical hacking, here are some tools and software you'll need:
