@@ -27,7 +27,7 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 - `cat <file>`: Display the contents of a file.
 
 **2.System Information:**
-**Display system information.**
+>Display system information.
 ```bash
 uname -a
 ```
