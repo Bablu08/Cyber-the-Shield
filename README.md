@@ -62,3 +62,8 @@ Here are some recommended resources to get started:
 - Capture the Flag (CTF) challenges from [TryHackMe](https://tryhackme.com/) or [Hack The Box](https://www.hackthebox.eu/).
 - Write your own scripts to automate reconnaissance tasks.
 - Vulnerability assessments and reports on sample web applications.
+
+## Future Goals
+- Gain proficiency in red teaming and blue teaming tactics.
+- Learn about threat modeling and advanced penetration testing techniques.
+- Obtain certifications such as CEH, CompTIA Security+, or OSCP.
