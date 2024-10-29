@@ -41,3 +41,12 @@ To start with ethical hacking, here are some tools and software you'll need:
 - Advanced Exploits and Buffer Overflow
 - Cryptographic Algorithms
 - Red Team and Blue Team Operations
+
+## Learning Resources
+Here are some recommended resources to get started:
+- [TryHackMe](https://tryhackme.com/) - Interactive learning for cybersecurity.
+- [Hack The Box](https://www.hackthebox.eu/) - Practice environments for penetration testing.
+- [OWASP](https://owasp.org/) - Open Web Application Security Project for web vulnerabilities.
+- Books:
+  - "The Web Application Hacker's Handbook"
+  - "Metasploit: The Penetration Tester’s Guide"
