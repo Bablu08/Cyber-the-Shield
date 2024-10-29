@@ -21,3 +21,23 @@ To start with ethical hacking, here are some tools and software you'll need:
 - **Kali Linux**: A Linux distribution specifically for penetration testing and cybersecurity.
 - **VirtualBox** or **VMware**: To create a virtual environment for testing.
 - **Git**: For version control, to track changes in your projects.
+
+## Skill Levels
+
+### Beginner
+- Networking Basics
+- Linux Commands
+- Basic Scripting (Bash, Python)
+- Introduction to Cybersecurity Concepts
+
+### Intermediate
+- Web Vulnerabilities (SQL Injection, XSS)
+- Enumeration and Scanning Techniques
+- Basic Exploits and Payloads
+- Introduction to Cryptography
+
+### Advanced
+- Penetration Testing Methodologies
+- Advanced Exploits and Buffer Overflow
+- Cryptographic Algorithms
+- Red Team and Blue Team Operations
