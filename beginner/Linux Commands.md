@@ -26,7 +26,7 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 - `mv <source> <destination>`: Move or rename a file or directory.
 - `cat <file>`: Display the contents of a file.
 
-**2.System Information:**
+**2. System Information:**
 >Display system information.
 ```bash
 uname -a
@@ -47,7 +47,8 @@ free -h
 ```bash
 whoami
 ```
-**3.Networking:**
+
+**3. Networking:**
 >Display network interfaces 
 ```bash
 ifconfig
@@ -68,7 +69,8 @@ traceroute <host>
 ```bash
 netstat -tuln
 ```
-**4.Package Management:**
+
+**4. Package Management:**
 >Update package lists.
 ```bash
 apt update
@@ -85,7 +87,8 @@ apt install <package>
 ```bash
 apt remove <package>
 ```
-**5.Permissions:**
+
+**5. Permissions:**
 >Change file permissions.
 ```bash
 chmod <permissions> <file>
@@ -94,7 +97,8 @@ chmod <permissions> <file>
 ```bash
 chown <user>:<group> <file>
 ```
-**6.Text Processing:**
+
+**6. Text Processing:**
 >Search for a pattern in a file.
 ```bash
 grep <pattern> <file>
