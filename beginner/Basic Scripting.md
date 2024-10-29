@@ -19,12 +19,12 @@ Bash scripting can automate repetitive tasks, making it valuable in cybersecurit
 ```bash
 echo "Hello, World!"
 ```
->2.Basic Backup Script:
+>2. Basic Backup Script:
 ```bash
 tar -cvf backup_$(date +%F).tar /path/to/directory
 echo "Backup completed!"
 ```
-3.Network Scanner Script:
+>3. Network Scanner Script:
 ```bash
 echo "Scanning network..."
 for ip in {1..254}; do
@@ -33,12 +33,12 @@ done
 wait
 echo "Scan completed!"
 ```
-4.Directory Cleanup Script:
+>4. Directory Cleanup Script:
 ```bash
 find /path/to/directory -type f -name "*.tmp" -delete
 echo "Temporary files deleted!"
 ```
-5.System Update Script:
+>5. System Update Script:
 ```bash
 echo "Updating system..."
 apt update && apt upgrade -y
