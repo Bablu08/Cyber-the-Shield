@@ -43,6 +43,36 @@ df -h
 ```bash
 free -h
 ```
+>Display the current logged-in user.
+```bash
+whoami
+```
+**3.Networking:**
+>Display network interfaces 
+```bash
+ifconfig
+```
+>Show all network interfaces.
+```bash
+ip a
+```
+>Send ICMP echo requests to a host.
+```bash
+ping <host>
+```
+>Trace the route packets take to a network host.
+```bash
+traceroute <host>
+```
+>Show listening ports and network connections.
+```bash
+netstat -tuln
+```
+**4:Package Management:**
+>Update package lists.
+```bash
+apt update
+```
 
 ### File Permissions
 Permissions determine who can access or modify files. Use `chmod` to change permissions:
