@@ -1,6 +1,4 @@
 
----
-
 ## Intermediate Topics
 
 ### 1. `intermediate/Web Vulnerabilities.md`
