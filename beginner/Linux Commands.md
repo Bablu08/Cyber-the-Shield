@@ -16,15 +16,43 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 
 ### Basic Commands
 **1.File and Directory Management:**
-- `ls`: Lists directory contents.
-- `cd <directory>`: Changes directory.
-- `pwd`: Prints current directory.
-- `mkdir <directory>`: Create a new directory.
-- `rmdir <directory>`: Remove an empty directory.
-- `rm <file>`: Remove a file.
-- `cp <source> <destination>`: Copy a file or directory.
-- `mv <source> <destination>`: Move or rename a file or directory.
-- `cat <file>`: Display the contents of a file.
+
+>Lists directory contents.
+```bash
+`ls`:
+```
+>Changes directory.
+```bash
+cd <directory>
+```
+>Prints current directory.
+```bash
+pwd
+```
+>Create a new directory.
+```bash
+mkdir <directory>
+```
+>Remove an empty directory.
+```bash
+rmdir <directory>
+```
+>Remove a file.
+```bash
+rm <file>
+```
+>Copy a file or directory.
+```bash
+cp <source> <destination>
+```
+>Move or rename a file or directory.
+```bash
+mv <source> <destination>
+```
+>Display the contents of a file.
+```bash
+cat <file>
+```
 
 **2. System Information:**
 >Display system information.
