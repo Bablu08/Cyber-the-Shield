@@ -15,3 +15,9 @@ Welcome to **Cyber-the-Shield**! This repository is a journey through ethical ha
 - [Tools](#tools)
 - [Projects/Exercises](#projects-exercises)
 - [Future Goals](#future-goals)
+
+## Setup
+To start with ethical hacking, here are some tools and software you'll need:
+- **Kali Linux**: A Linux distribution specifically for penetration testing and cybersecurity.
+- **VirtualBox** or **VMware**: To create a virtual environment for testing.
+- **Git**: For version control, to track changes in your projects.
