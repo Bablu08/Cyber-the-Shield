@@ -31,11 +31,11 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 ```bash
 uname -a
 ```
-Display running processes.
+>Display running processes.
 ```bash
 top
 ```
-Show disk space usage.
+>Show disk space usage.
 ```bash
 df -h
 ```
