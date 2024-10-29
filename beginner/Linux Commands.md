@@ -39,6 +39,10 @@ top
 ```bash
 df -h
 ```
+>Show memory usage.
+```bash
+free -h
+```
 
 ### File Permissions
 Permissions determine who can access or modify files. Use `chmod` to change permissions:
