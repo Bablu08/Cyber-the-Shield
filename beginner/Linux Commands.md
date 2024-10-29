@@ -15,7 +15,7 @@
 Linux is the preferred operating system in cybersecurity due to its flexibility and open-source nature. 
 
 ### Basic Commands
-***1.File and Directory Management:***
+**1.File and Directory Management:**
 - `ls`: Lists directory contents.
 - `cd <directory>`: Changes directory.
 - `pwd`: Prints current directory.
