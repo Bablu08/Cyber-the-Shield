@@ -19,6 +19,12 @@ Linux is the preferred operating system in cybersecurity due to its flexibility 
 - `ls`: Lists directory contents.
 - `cd <directory>`: Changes directory.
 - `pwd`: Prints current directory.
+- `mkdir <directory>`: Create a new directory.
+- `rmdir <directory>`: Remove an empty directory.
+- `rm <file>`: Remove a file.
+- `cp <source> <destination>`: Copy a file or directory.
+- `mv <source> <destination>`: Move or rename a file or directory.
+- `cat <file>`: Display the contents of a file.
 
 ### File Permissions
 Permissions determine who can access or modify files. Use `chmod` to change permissions:
