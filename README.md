@@ -50,3 +50,10 @@ Here are some recommended resources to get started:
 - Books:
   - "The Web Application Hacker's Handbook"
   - "Metasploit: The Penetration Tester’s Guide"
+
+## Tools
+- **Nmap**: Network scanner for discovering hosts and services.
+- **Wireshark**: Packet analyzer for network troubleshooting and analysis.
+- **Metasploit**: Framework for developing and executing exploit code.
+- **Burp Suite**: Web vulnerability scanner and penetration testing tool.
+- **John the Ripper**: Password-cracking tool.
