@@ -68,10 +68,44 @@ traceroute <host>
 ```bash
 netstat -tuln
 ```
-**4:Package Management:**
+**4.Package Management:**
 >Update package lists.
 ```bash
 apt update
+```
+>Upgrade installed packages.
+```bash
+apt upgrade
+```
+>Install a new package.
+```bash
+apt install <package>
+```
+>Remove a package.
+```bash
+apt remove <package>
+```
+**5.Permissions:**
+>Change file permissions.
+```bash
+chmod <permissions> <file>
+```
+>Change file ownership.
+```bash
+chown <user>:<group> <file>
+```
+**6.Text Processing:**
+>Search for a pattern in a file.
+```bash
+grep <pattern> <file>
+```
+>Display text to the terminal.
+```bash
+echo <text>
+```
+>Open a file in the Nano text editor.
+```bash
+nano <file>
 ```
 
 ### File Permissions
