@@ -1,10 +1,6 @@
-
----
-
 ## Intermediate Topics
 
 ### 1. `intermediate/Web Vulnerabilities.md`
-```markdown
 # Web Vulnerabilities
 
 > **Overview**: A guide to common web vulnerabilities and how they are exploited.
