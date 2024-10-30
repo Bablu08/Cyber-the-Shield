@@ -13,7 +13,3 @@
 3. **Exploitation**: Exploiting vulnerabilities.
 4. **Post-Exploitation**: Gaining persistent access.
 5. **Reporting**: Documenting findings and recommendations.
-
----
-
-
