@@ -2,7 +2,7 @@
 ## Advanced Topics
 
 ### 1. `advanced/Penetration Testing Methodologies.md`
-```markdown
+
 # Penetration Testing Methodologies
 
 > **Overview**: Guide to structured approaches in penetration testing.
