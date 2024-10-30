@@ -21,3 +21,11 @@ SELECT * FROM users WHERE username = 'admin' OR '1'='1';
 ```
 - Impact: Unauthorized data access, data manipulation, and potential system compromise.
 - Prevention: Use parameterized queries and prepared statements.
+
+### Cross-Site Scripting (XSS)
+XSS occurs when an attacker injects malicious scripts into a web page viewed by other users. This can be used to steal session cookies, capture user input, or redirect users to malicious sites.
+
+**Example**:
+```html
+<script>alert('XSS');</script>
+```
