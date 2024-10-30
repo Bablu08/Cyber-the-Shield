@@ -39,3 +39,31 @@ CSRF tricks a user into performing actions they didn’t intend to, such as subm
 ```html
 <a href="http://example.com/change-email?email=hacker@example.com">Click here</a>
 ```
+- Impact: Account compromise, unauthorized actions.
+- Prevention: Use CSRF tokens, verify HTTP headers.
+
+### Command Injection
+Command Injection occurs when an attacker is able to inject arbitrary commands into a vulnerable application, often through shell commands.
+
+**Example:**
+```bash
+ping -c 4 $(whoami)
+```
+- Impact: System takeover, data theft, and further exploitation.
+- Prevention: Avoid passing user input directly into shell commands; use functions like `exec()` carefully.
+
+### Insecure Direct Object References (IDOR)
+IDOR vulnerabilities allow attackers to access unauthorized data by modifying a parameter used to access an object (e.g., a URL).
+
+**Example:**
+- URL: http://example.com/user/123/profile
+
+- An attacker changes `123` to `124` to access another user’s profile.
+
+- Impact: Unauthorized data access.
+
+- Prevention: Implement access control checks.
+
+### Resources
+- OWASP Web Vulnerabilities
+- Web Security Academy
