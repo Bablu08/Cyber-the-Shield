@@ -65,5 +65,5 @@ IDOR vulnerabilities allow attackers to access unauthorized data by modifying a 
 - Prevention: Implement access control checks.
 
 ### Resources
-- OWASP Web Vulnerabilities
-- Web Security Academy
+- [OWASP Web Vulnerabilities](https://owasp.org/)
+- [Web Security Academy](https://portswigger.net/web-security)
