@@ -27,9 +27,11 @@ To start with ethical hacking, here are some tools and software you'll need:
 - Introduction to Cybersecurity Concepts
 
 ### Intermediate
+- Social Engineering
 - Web Vulnerabilities (SQL Injection, XSS)
 - Enumeration and Scanning Techniques
 - Basic Exploits and Payloads
+- Password Attacks
 - Introduction to Cryptography
 
 ### Advanced
