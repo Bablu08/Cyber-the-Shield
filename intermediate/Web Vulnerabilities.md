@@ -19,3 +19,5 @@ SQL Injection (SQLi) occurs when an attacker can execute arbitrary SQL commands 
 ```sql
 SELECT * FROM users WHERE username = 'admin' OR '1'='1';
 ```
+- Impact: Unauthorized data access, data manipulation, and potential system compromise.
+- Prevention: Use parameterized queries and prepared statements.
