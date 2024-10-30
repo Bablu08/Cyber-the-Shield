@@ -1,6 +1,5 @@
 ## Intermediate Topics
 
-### 1. `intermediate/Web Vulnerabilities.md`
 # Web Vulnerabilities
 
 > **Overview**: A guide to common web vulnerabilities and how they are exploited.
@@ -19,3 +18,4 @@ A vulnerability allowing attackers to manipulate a database by injecting malicio
 **Example**:
 ```sql
 SELECT * FROM users WHERE username = 'admin' OR '1'='1';
+```
