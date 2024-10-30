@@ -40,5 +40,3 @@ Baiting involves enticing the victim with a promise or curiosity, such as leavin
 ### Resources
 - [Social Engineering by KnowBe4](https://www.knowbe4.com/)
 - [Phishing Attack Prevention by CISA](https://www.cisa.gov/)
-
----
