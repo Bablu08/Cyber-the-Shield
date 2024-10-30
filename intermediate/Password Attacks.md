@@ -1,5 +1,3 @@
-
-### 3. `intermediate/Password Attacks.md`
 # Password Attacks
 
 > **Overview**: Password attacks are attempts to crack or guess a user's password. This document discusses various techniques used in password attacks and ways to defend against them.
