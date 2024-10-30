@@ -32,7 +32,7 @@ XSS occurs when an attacker injects malicious scripts into a web page viewed by 
 - Types: Stored XSS, Reflected XSS, DOM-based XSS.
 - Prevention: Proper input sanitization and encoding of output.
 
-###Cross-Site Request Forgery (CSRF)
+### Cross-Site Request Forgery (CSRF)
 CSRF tricks a user into performing actions they didn’t intend to, such as submitting a form or changing their account settings, by exploiting their authenticated session.
 
 **Example**: A malicious link that performs a request:
